@@ -1,0 +1,23 @@
+git init
+git add .
+git commit -m 'message'
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+
+git branch -M main
+git remote add origin https://github.com/bakebit-official/git_demo.git
+git push -u origin main
+
+https://www.youtube.com/watch?v=JCcrdW4Llm0&t=16s
+
+git status 
+
+[ jodi commit up to date dekhay ]
+git push -u origin main
+
+[ jodi commit up to date NA dekhay ]
+git add .
+git commit -m 'message'
+git push -u origin main
+
